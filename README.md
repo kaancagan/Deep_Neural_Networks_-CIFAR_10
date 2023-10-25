@@ -1,5 +1,8 @@
 # Deep_Neural_Networks_-CIFAR_10
 
+[Adsız.pdf](https://github.com/kaancagan/Deep_Neural_Networks_-CIFAR_10/files/13163465/Adsiz.pdf)
+
+
 
 - CIFAR-10, aşağıdaki 10 sınıfa bölünmüş birkaç görüntüden oluşan bir veri kümesidir:
      
